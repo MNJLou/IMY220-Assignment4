@@ -2,7 +2,7 @@ $(document).ready(() => {
     $("button#left").on('click', function(){
         let textMessage = $('textarea#message').val();
 
-        if(textMessage == 'testimg git'){
+        if(textMessage == 'testimg git times 2'){
             return;
         }
 
